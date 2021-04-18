@@ -1,0 +1,51 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/app": "^0.6.17",
+    "events": "^3.3.0",
+    "firebase": "^8.3.1",
+    "html-react-parser": "^1.2.4",
+    "http": "^0.0.0",
+    "http2": "^3.3.7",
+    "interweave": "^12.7.1",
+    "net": "^1.0.2",
+    "prop-types": "^15.7.2",
+    "querystring": "^0.2.1",
+    "re-base": "^4.0.0",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-transition-group": "^4.4.1",
+    "stylus": "^0.54.8",
+    "tls": "^0.0.1",
+    "url": "^0.11.0",
+    "zlib": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

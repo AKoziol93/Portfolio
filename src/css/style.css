@@ -1,0 +1,60 @@
+body {
+    background-color: #000421;
+  }
+  html{
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .root {
+    font-family: sans-serif;
+    
+    
+  }  
+  .Top {
+    overflow: hidden;
+    background-color: #333;
+    max-width: inherit;
+    
+  }
+  .TopImg {
+    max-width: fit-content;
+  }
+  
+  .menuTop {
+    overflow: hidden;
+    background-color:#36454F;
+    border-color: white;
+    border-style:solid;
+    
+  }
+  
+  /* Style the topnav links */
+  .menuTop a {
+    float: left;
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .menuTop a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .menuTop img {
+    height: 20px;
+  }
+  
+  h1,
+  p {
+    font-family: Lato;
+  }
+  
+  .bodyContent {
+    background-color:#36454F;
+    color:white;
+    padding: 5%;
+  }
+  
